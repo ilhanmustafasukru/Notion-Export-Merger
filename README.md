@@ -3,6 +3,8 @@
 ## What It Does
 When you export a notebook or workspace from Notion using the free HTML option, it generates a messy, deeply nested ZIP file containing scattered HTML files and isolated image folders. This script takes that raw Notion export and automatically compiles it into **one single, unified HTML document** while perfectly preserving Notion's original layout and styling. 
 
+Ultimately, this saves you from having to upgrade to Notion's paid Business plan just to export a single PDF with all your subpages included.
+
 ## Features
 * **Automatic Extraction:** Automatically drills through the parent ZIP and any nested ZIP files Notion creates for large workspaces.
 * **Image Embedding:** Converts and embeds all local images directly into the HTML using Base64, ensuring your images never break or get lost if you move the file.
