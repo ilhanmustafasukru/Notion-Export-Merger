@@ -15,3 +15,6 @@ When you export a notebook or workspace from Notion using the free HTML option, 
    `pip install beautifulsoup4`
 3. **Run the Script:** Double-click the `merge_notion.py` file (or run it from your terminal). 
 4. **Select Files:** Two pop-up windows will appear. Select your downloaded Notion ZIP file in the first, and choose where you want to save your new combined HTML file in the second.
+
+
+Disclaimer: 100% vibe coded.
